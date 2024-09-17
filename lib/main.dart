@@ -107,6 +107,7 @@ class _CalculatorScreenState extends State<CalculatorScreen> {
               _buildButton('.'),
               _buildButton('='),
               _buildButton('+'),
+              _buildButton('^'),
             ],
           ),
           SizedBox(height: 16.0),
